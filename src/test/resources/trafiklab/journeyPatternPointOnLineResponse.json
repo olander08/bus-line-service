@@ -1,0 +1,95 @@
+{
+   "StatusCode":0,
+   "Message":null,
+   "ExecutionTime":342,
+   "ResponseData":{
+      "Version":"2022-03-28 00:13",
+      "Type":"JourneyPatternPointOnLine",
+      "Result":[
+         {
+            "LineNumber":"1",
+            "DirectionCode":"1",
+            "JourneyPatternPointNumber":"10001",
+            "LastModifiedUtcDateTime":"2022-02-15 00:00:00.000",
+            "ExistsFromDate":"2022-02-15 00:00:00.000"
+         },
+         {
+            "LineNumber":"1",
+            "DirectionCode":"1",
+            "JourneyPatternPointNumber":"10002",
+            "LastModifiedUtcDateTime":"2022-02-16 00:00:00.000",
+            "ExistsFromDate":"2022-02-16 00:00:00.000"
+         },
+         {
+            "LineNumber":"1",
+            "DirectionCode":"1",
+            "JourneyPatternPointNumber":"10003",
+            "LastModifiedUtcDateTime":"2018-08-20 00:00:00.000",
+            "ExistsFromDate":"2018-08-20 00:00:00.000"
+         },
+         {
+            "LineNumber":"1",
+            "DirectionCode":"1",
+            "JourneyPatternPointNumber":"10006",
+            "LastModifiedUtcDateTime":"2022-02-01 00:00:00.000",
+            "ExistsFromDate":"2022-02-01 00:00:00.000"
+         },
+         {
+            "LineNumber":"1",
+            "DirectionCode":"2",
+            "JourneyPatternPointNumber":"10006",
+            "LastModifiedUtcDateTime":"2022-02-01 00:00:00.000",
+            "ExistsFromDate":"2022-02-01 00:00:00.000"
+         },
+         {
+            "LineNumber":"2",
+            "DirectionCode":"2",
+            "JourneyPatternPointNumber":"10006",
+            "LastModifiedUtcDateTime":"2022-02-17 00:00:00.000",
+            "ExistsFromDate":"2022-02-17 00:00:00.000"
+         },
+         {
+            "LineNumber":"2",
+            "DirectionCode":"2",
+            "JourneyPatternPointNumber":"10003",
+            "LastModifiedUtcDateTime":"2022-03-18 00:00:00.000",
+            "ExistsFromDate":"2022-03-18 00:00:00.000"
+         },
+         {
+            "LineNumber":"2",
+            "DirectionCode":"2",
+            "JourneyPatternPointNumber":"10002",
+            "LastModifiedUtcDateTime":"2022-03-03 00:00:00.000",
+            "ExistsFromDate":"2022-03-03 00:00:00.000"
+         },
+         {
+            "LineNumber":"2",
+            "DirectionCode":"2",
+            "JourneyPatternPointNumber":"10001",
+            "LastModifiedUtcDateTime":"2012-06-23 00:00:00.000",
+            "ExistsFromDate":"2012-06-23 00:00:00.000"
+         },
+         {
+            "LineNumber":"3",
+            "DirectionCode":"1",
+            "JourneyPatternPointNumber":"10001",
+            "LastModifiedUtcDateTime":"2022-01-08 00:00:00.000",
+            "ExistsFromDate":"2022-01-08 00:00:00.000"
+         },
+         {
+            "LineNumber":"3",
+            "DirectionCode":"1",
+            "JourneyPatternPointNumber":"10006",
+            "LastModifiedUtcDateTime":"2022-03-10 00:00:00.000",
+            "ExistsFromDate":"2022-03-10 00:00:00.000"
+         },
+         {
+            "LineNumber":"4",
+            "DirectionCode":"1",
+            "JourneyPatternPointNumber":"99999",
+            "LastModifiedUtcDateTime":"2022-03-10 00:00:00.000",
+            "ExistsFromDate":"2022-03-10 00:00:00.000"
+         }
+      ]
+   }
+}
